@@ -1,35 +1,50 @@
-# PPS Assignment-2
+<div align="center">
 
-**Course:** Programming For Problem Solving (U26CS101)
-**Institute:** Lords Institute of Engineering and Technology
-**Branch:** CSM-A | I-BE, I-Semester (LR26)
-**Unit:** 2
+# 🧠 Coding Solutions
 
-**Name:** Mohammed  abdul muhyi mubeen
-**Roll No:** 160926748045
+![Total Solved](https://img.shields.io/badge/Total_Solved-7-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-11--21--2026-green?style=for-the-badge)
 
-## About
-C solutions for Assignment-2, solved and accepted on HackerRank.
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
-## Programs
+</div>
 
-| S.No | Problem | File |
-|------|---------|------|
-| 1 | Sum and Difference of Two Numbers | `1_sum_difference.c` |
-| 2 | Functions in C | `2_functions.c` |
-| 3 | For Loop in C | `3_for_loop.c` |
-| 4 | Bitwise Operators | `4_bitwise_operators.c` |
-| 5 | Conditional Statements in C | `5_conditional_statements.c` |
+---
 
-## Concepts Covered
-- Input and output with `scanf` / `printf`
-- User-defined functions
-- `for` loops
-- Bitwise operators (`&`, `|`, `^`)
-- `if` / `else if` conditional statements
+## 📊 Stats
 
-## How to Run
-```bash
-gcc 1_sum_difference.c -o program
-./program
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **1** |
+| 🟡 Medium | **6** |
+| 🔴 Hard | **0** |
+| **Total** | **7** |
+
+## 🛠️ Languages
+
+| Language | Solutions |
+|:---:|:---:|
+| C | **6** |
+| C++ | **1** |
+
+## 📂 Repository Structure
+
 ```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
+
+<div align="center">
+
+*Last updated: 2026-11-21* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+
+</div>
