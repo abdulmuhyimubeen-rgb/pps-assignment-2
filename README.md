@@ -1,50 +1,29 @@
-<div align="center">
+# LeetCode-Assignment-3
 
-# 🧠 Coding Solutions
+C programming solutions for Assignment 3 of the U26CS101 course.
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-7-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-11--21--2026-green?style=for-the-badge)
+## Student Details
 
-> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+- **Name:** MD.Abdul muhyi mubeen
+- **Roll Number:** 160926748045
+- **Branch:** CSM-A
+- **Course Code:** U26CS101
+- **Faculty Name:**  P. Vijay Bhaskar
 
-</div>
+## Solved Challenges
 
----
+| S.No | Problem Name | File Name | Platform | Status |
+|------|--------------|-----------|----------|--------|
+| 1 | 704. Binary Search | `1_binary_search.c` | LeetCode | Solved |
+| 2 | 1480. Running Sum of 1d Array | `2_running_sum_of_1d_array.c` | LeetCode | Solved |
+| 3 | 867. Transpose Matrix | `3_transpose_matrix.c` | LeetCode | Solved |
+| 4 | 566. Reshape the Matrix | `4_reshape_the_matrix.c` | LeetCode | Solved |
+| 5 | 35. Search Insert Position | `5_search_insert_position.c` | LeetCode | Solved |
 
-## 📊 Stats
+## How to Run Locally
 
-| Difficulty | Solved |
-|:---:|:---:|
-| 🟢 Easy | **1** |
-| 🟡 Medium | **6** |
-| 🔴 Hard | **0** |
-| **Total** | **7** |
+To compile and execute any of these C programs using `gcc`:
 
-## 🛠️ Languages
-
-| Language | Solutions |
-|:---:|:---:|
-| C | **6** |
-| C++ | **1** |
-
-## 📂 Repository Structure
-
-```
-📦 coding-solutions/
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── hackerrank/
-├── codechef/
-└── gfg/
-```
-
----
-
-<div align="center">
-
-*Last updated: 2026-11-21* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
-
-</div>
+```bash
+gcc filename.c -o output
+./output
